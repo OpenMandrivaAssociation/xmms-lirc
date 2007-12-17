@@ -9,7 +9,6 @@ Release: %{release}
 Source0: lirc-xmms-plugin-%{version}.tar.bz2
 License: GPL
 Group:   Sound
-BuildRoot: %{_tmppath}/%{name}-buildroot
 URL:	http://www.lirc.org/software.html
 Buildrequires: gtk+1.2-devel, xmms1-devel, binutils, lirc-devel, mawk, gcc
 
