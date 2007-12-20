@@ -10,7 +10,7 @@ Source0: lirc-xmms-plugin-%{version}.tar.bz2
 License: GPL
 Group:   Sound
 URL:	http://www.lirc.org/software.html
-Buildrequires: gtk+1.2-devel, xmms1-devel, binutils, lirc-devel, mawk, gcc
+Buildrequires: gtk+1.2-devel, xmms-devel, binutils, lirc-devel, mawk, gcc
 
 %description
 This is a LIRC plugin for xmms (Infrared Controler)
