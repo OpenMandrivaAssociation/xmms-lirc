@@ -2,7 +2,7 @@
 %define version 1.4
 %define release %mkrel 3
 
-Summary: This is a LIRC plugin for xmms (Infrared Controler)
+Summary: LIRC plugin for xmms (Infrared Controler)
 Name:    %{name}
 Version: %{version}
 Release: %{release}
