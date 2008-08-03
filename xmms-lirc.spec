@@ -1,6 +1,6 @@
 %define name xmms-lirc
 %define version 1.4
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary: LIRC plugin for xmms (Infrared Controler)
 Name:    %{name}
